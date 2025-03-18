@@ -1,0 +1,2 @@
+D:/flutter/mechanic_UsrApp/android/app/.cxx/Debug/3b1b635y/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/flutter/mechanic_UsrApp/android/app/.cxx/Debug/3b1b635y/armeabi-v7a/CMakeFiles/rebuild_cache.dir

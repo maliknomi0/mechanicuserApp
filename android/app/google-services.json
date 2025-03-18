@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497287521119",
+    "project_id": "mechanicapp-app",
+    "storage_bucket": "mechanicapp-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497287521119:android:7a406ed0c4916d978bccea",
+        "android_client_info": {
+          "package_name": "com.unknow.repair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAutb8b9Po2E3m7Qv-TkIhuk3M50byqeVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
